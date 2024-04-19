@@ -114,7 +114,12 @@ There is more to instances. With this feature, you can:
 .. note:: Changing a property on an instance always overrides values from the
           corresponding packed scene.
 
-Let's try this. Open ``ball.tscn`` and select the Ball node. In the Inspector on
+Let's try this. Open ``ball.tscn`` by click on the Open in Editor button
+
+.. image:: img/open_in_editor_button.webp
+.. image:: img/ball.tscn_in_the scene.webp
+
+next to the Ball node. Select the Ball node in the Editor. In the Inspector on
 the right, click on the PhysicsMaterial property to expand it.
 
 .. image:: img/instancing_physics_material_expand.webp
